@@ -1,5 +1,5 @@
 import { describe, it, expect } from 'vitest'
-import { parseRssXml } from '../rss'
+import { parseRssXml } from '@/rss/rss'
 
 describe('parseRssXml', () => {
   const sampleXmlDocument = new DOMParser().parseFromString(

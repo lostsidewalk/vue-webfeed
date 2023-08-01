@@ -2,7 +2,7 @@ import { describe, it, expect } from 'vitest'
 import { mount } from '@vue/test-utils'
 import { createPinia } from 'pinia'
 
-import RssFeed from '../RssFeed.vue'
+import RssFeed from '@/components/RssFeed.vue'
 
 const pinia = createPinia()
 

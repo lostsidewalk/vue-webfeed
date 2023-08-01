@@ -1,6 +1,6 @@
 {
   "name": "vue-webfeed",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": false,
   "description": "A Vue.js application for displaying web feeds (RSS/ATOM).",
   "author": "Michael Harris <meh@lostsidewalk.com>",

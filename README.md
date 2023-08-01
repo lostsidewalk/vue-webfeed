@@ -98,11 +98,6 @@ Contributions are welcome! If you find a bug or have a feature request, please o
 ## License
 
 This project is licensed under the [MIT License](/path/to/LICENSE).
-```
-
-Note: Replace the placeholder URLs, paths, and other information with actual values specific to your project. Include relevant screenshots or GIFs to showcase the project's features and appearance.
-
-Ensure that the README.md file is kept up to date and serves as a comprehensive guide for developers and users interested in your Vue.js RSS Feed Reader project.
 
 ## Recommended IDE Setup
 

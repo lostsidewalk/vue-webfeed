@@ -12,7 +12,7 @@ if (shortLang.indexOf('-') !== -1) shortLang = shortLang.split('-')[0]
 
 if (shortLang.indexOf('_') !== -1) shortLang = shortLang.split('_')[0]
 
-import en from './translations/en'
+import en from '@/translations/en'
 
 const i18n = createI18n({
   /**

@@ -1,5 +1,5 @@
 import { describe, it, expect } from 'vitest'
-import { parseAtomXml } from '../atom'
+import { parseAtomXml } from '@/atom/atom'
 
 describe('parseAtomXml', () => {
   const sampleXmlDocument = new DOMParser().parseFromString(

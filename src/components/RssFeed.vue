@@ -13,8 +13,8 @@
 </template>
 
 <script setup>
-import RssItem from './RssItem.vue'
-import { useFeedStore } from '../stores/useFeedStore'
+import RssItem from '@/components/RssItem.vue'
+import { useFeedStore } from '@/stores/useFeedStore'
 import { useI18n } from 'vue-i18n'
 
 const props = defineProps({

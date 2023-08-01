@@ -1,6 +1,6 @@
 import { beforeEach, describe, expect, test, vi } from 'vitest'
 import { setActivePinia, createPinia } from 'pinia'
-import { useFeedStore } from '../useFeedStore'
+import { useFeedStore } from '@/stores/useFeedStore'
 import axios from 'axios'
 
 vi.mock('axios')
